@@ -1,7 +1,7 @@
 # Knapsack problem
 This solution is using previous [project](https://github.com/Kadragow/KnapsackProblem). Main goal was creating windowed application using JavaFx.
 
-##Make sure you did this
+## Make sure you did this
 To run project properly, `KnapsackProblem.jar` have to be added to your project solution as external jar/library.
 
 In IntelliJ IDEA, follow below steps
